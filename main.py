@@ -1,1 +1,2 @@
-# Я поменял файл main.py согласно условиям выполнения задания с наставником
+def reverse_text(text: str) -> str:
+    return text[::-1]
